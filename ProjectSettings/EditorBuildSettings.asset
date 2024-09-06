@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CambioEscenas/E1_Inicio.unity
+    guid: ed7523bec49b4e245b72f2bc3cb02c60
+  - enabled: 1
+    path: Assets/CambioEscenas/E2_Principal.unity
+    guid: c297ddee57a7c884d856060c098e08d2
+  - enabled: 1
+    path: Assets/CambioEscenas/E3_Fin.unity
+    guid: c4321a509bc6e34489512b8a68897a49
+  m_configObjects: {}
